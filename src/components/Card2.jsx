@@ -37,7 +37,7 @@ function Card2() {
         </div>
       </div>
 
-      <div className="relative mt-16M mb-32M w-full" aria-label="how much money backed">
+      <div className="relative mt-16M mb-32M w-full" aria-label="how much money backed" role="money backed">
         <hr className="rounded-50BR border-1BW bg-dark-white border-dark-white h-16H border-solid" />
         <hr className="absolute top-0 left-0 w-4/5 rounded-50BR border-1BW bg-moderate-cyan border-moderate-cyan h-16H border-solid" />
       </div>
