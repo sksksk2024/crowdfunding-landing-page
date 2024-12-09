@@ -2,7 +2,7 @@
 
 function Card3() {
   return (
-    <section className="flex flex-col justify-center items-start gap-10  inset-y-48I 2xs:inset-y-182.4I md:inset-y-300I lg:inset-y-128I xl:inset-y-224I text-black text-start z-1 w-full h-32H bg-white h-auto rounded-10BR p-32P shadow-xl leading-8">
+    <section className="flex flex-col justify-center items-start gap-10  inset-y-48I 2xs:inset-y-182.4I md:inset-y-300I lg:inset-y-128I relative xl:inset-y-224I text-black text-start z-1 w-full h-32H bg-white h-auto rounded-10BR p-32P shadow-xl leading-8">
       <h2 className="font-bold text-lg">
         About this project
       </h2>
