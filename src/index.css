@@ -53,15 +53,6 @@ body {
   min-height: 150vh;
 }
 
-html {
-  position: relative;
-}
-
-body {
-  position: absolute;
-  bottom: 20rem;
-}
-
 /* header {
 } */
 
